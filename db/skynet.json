@@ -1,0 +1,1 @@
+[{"command":"/HOLA","actions":"\"Hola \" + msg.from.first_name + \" ¿que puedo hacer por ti?\"","_id":"8bea877478d94312b38d797e8a1a7fc0"},{"command":"/CLIMA","actions":"bot.cfg.modules.skynet.clim(msg,'Alcala de guadaira','C','ES');","_id":"e3bd98ed79494a48b853a79cac9c8d2b"}]

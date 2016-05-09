@@ -1,0 +1,17 @@
+{
+  "name": "skynet",
+  "author": "Benjamin Fernandez Carrasco",
+  "version": "0.0.1",
+  "private": false,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords":["telegram","bot","simple","app","api","messages"],
+  "dependencies": {
+    "date-format": "0.0.2",
+    "diskdb": "^0.1.14",
+    "telebot": "^1.0.0",
+    "weather-js": "^1.0.2"
+  }
+}
