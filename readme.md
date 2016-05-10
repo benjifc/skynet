@@ -3,16 +3,16 @@
 
 
 
-A Telegram's bot.
+######A Telegram's bot.
 
 > [Documentation: What is   Telegram's Bot ?](https://core.telegram.org/api)
 
-## What is Skynet Telegram's Bot? 
+##### What is Skynet Telegram's Bot? 
 
-### This a educational software for begining programers
+>This a educational software for begining programers
 
 
-[](https://core.telegram.org/file/811140934/1/tbDSLHSaijc/fdcc7b6d5fb3354adf)
+![](https://core.telegram.org/file/811140934/1/tbDSLHSaijc/fdcc7b6d5fb3354adf)
 
 Example
 
