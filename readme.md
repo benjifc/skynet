@@ -13,6 +13,19 @@
 
 
 ![](https://core.telegram.org/file/811140934/1/tbDSLHSaijc/fdcc7b6d5fb3354adf)
+##### Install
+ ``` git
+ git clone https://github.com/benjifc/skynet.git
+ ```
+ 
+ ``` bash
+ cd skynet
+ npm install
+ ```
+##### Start
+``` bash
+npm start
+```
 
 ##### Example
 
